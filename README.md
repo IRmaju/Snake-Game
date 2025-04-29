@@ -1,4 +1,4 @@
-# 🐍 Streamlit Snake Game 🎮
+# 🐍  Snake Game 🎮
 
 Welcome to the **Streamlit Snake Game**! A fun and interactive snake game built using Python and Streamlit. Play the game directly in your web browser and enjoy the classic snake experience with a modern twist.
 
